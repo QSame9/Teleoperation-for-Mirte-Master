@@ -1,5 +1,5 @@
 """
-Project Name: Controller code for physical Teleoperation interface of Mirte Master
+Project Name: Teleoperation interface of Mirte Master
 File: controller_script_final.py
 Description: Does the reading out and the publishing of commands for the Mirte Master
 

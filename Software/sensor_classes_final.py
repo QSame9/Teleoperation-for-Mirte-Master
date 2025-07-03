@@ -1,5 +1,5 @@
 """
-Project Name: Controller code for physical Teleoperation interface of Mirte Master
+Project Name: Teleoperation interface of Mirte Master
 File: sensor_classes_final.py
 Description: A support file for the 'controller_script_final.py' where the classes 
 are defined for both the sensors and actuator commands.

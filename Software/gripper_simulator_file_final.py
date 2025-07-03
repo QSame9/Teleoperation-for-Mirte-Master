@@ -1,5 +1,5 @@
 """
-Project Name: Controller code for physical Teleoperation interface of Mirte Master
+Project Name: Teleoperation interface of Mirte Master
 File: gripper_simulator_file_final.py
 Description: As the Mirte Master does not have force sensors, a simulator is used to 
 define the force needed for force feedback
